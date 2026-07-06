@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+env/
+
+# Variables de entorno (NUNCA subir)
+.env
+
+# Base de datos
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db

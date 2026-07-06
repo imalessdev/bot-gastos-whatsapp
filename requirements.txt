@@ -1,0 +1,5 @@
+groq>=0.9.0
+twilio>=9.0.0
+imap-tools>=1.5.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
